@@ -1,0 +1,21 @@
+# Site settings
+title: More Than Passing Tests
+header-img: img/home-bg.png
+email: retibra@gmail.com
+copyright_name: retibra
+description: > # this means to ignore newlines until "baseurl:"
+  My Coding Journey
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  retibra
+learn_profile: retibra
+email_username: retibra@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
