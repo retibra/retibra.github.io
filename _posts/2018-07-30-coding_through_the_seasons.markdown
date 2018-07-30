@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "CODING THROUGH THE SEASONS"
-date:       2018-07-30 20:09:32 +0000
+title:      "Coding Through The Seasons"
+date:       2018-07-30 16:09:33 -0400
 permalink:  coding_through_the_seasons
 ---
 
